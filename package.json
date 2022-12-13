@@ -1,0 +1,12 @@
+{
+  "name": "react-remote-config",
+  "version": "0.0.1",
+  "description": "configure components and update in real time",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.0.26",
+    "react": "^18.2.0",
+    "typescript": "^4.9.4"
+  }
+}
